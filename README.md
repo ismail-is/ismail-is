@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
 
-<h3 align="center">🚀 Full Stack Web Developer | 1.6+ Years of Experience | Building Digital Experiences that Matter</h3>
+<h3 align="center">🚀 Full Stack Web Developer | 1.6+ Years of Experience | 1+ years of freelancer experience</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ismail-is&label=PROFILE+VIEWS" alt="Profile Views" />
