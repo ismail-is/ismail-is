@@ -19,6 +19,26 @@
 
 ---
 
+### 🛠️ Tech Stack
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,bootstrap" height="40" alt="Frontend" />
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" alt="Backend" />
+
+  <!-- CMS & Hosting -->
+  <img src="https://skillicons.dev/icons?i=wordpress,shopify" height="40" alt="CMS" />
+  <img src="https://img.shields.io/badge/Hostinger-673de6?style=for-the-badge&logo=hostinger&logoColor=white" height="30" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode,github,linux" height="40" alt="Tools" />
+  <img src="https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logo=windows&logoColor=white" height="30" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working at **Bright Media Tech**
