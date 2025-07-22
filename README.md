@@ -21,7 +21,7 @@
 
 **Frontend:**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,ts" height="30" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,ts" height="20" />
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" height="30" />
 <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" height="30" />
 <img src="https://skillicons.dev/icons?i=nodejs,express" height="30" />
@@ -40,6 +40,10 @@
 
 
 ---
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg" alt="GitHub Snake Animation" />
+</p>
 
 ### 📫 Connect With Me
 
