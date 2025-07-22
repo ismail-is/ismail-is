@@ -4,7 +4,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ismail-is&label=PROFILE+VIEWS)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ismail-is&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -30,11 +29,12 @@
 
   <!-- CMS & Hosting -->
   <img src="https://skillicons.dev/icons?i=wordpress,shopify" height="40" alt="CMS" />
-  <img src="https://img.shields.io/badge/Hostinger-673de6?style=for-the-badge&logo=hostinger&logoColor=white" height="30" />
+
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=vscode,github,linux" height="40" alt="Tools" />
   <img src="https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logo=windows&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Hostinger-673de6?style=for-the-badge&logo=hostinger&logoColor=white" height="30" />
 </p>
 
 ---
@@ -43,21 +43,22 @@
 
 - 🔭 I’m currently working at **Bright Media Tech**
 - 💼 I build **static and dynamic websites** and full web applications.
-- 🌱 I’m currently learning **backend development** and DevOps tools.
 - 👯 I’m looking to collaborate on **React, Node.js, or MongoDB projects**.
 - 💬 Ask me about **JavaScript, React, Next.js, Node.js, Tailwind CSS, MongoDB**
 - 📫 How to reach me: **ismailthalithanooji@gmail.com**
-- ⚡ Fun fact: _"System badluv beku, examge alla lifege tayar aagbeku."_
+
 
 ---
 
 ### 🦖 Just for Fun
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/Ashutosh00710/main/dino.gif" alt="dino" />
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="chrome-dino" />
 </p>
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ismail-is&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **ismail-is/ismail-is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
