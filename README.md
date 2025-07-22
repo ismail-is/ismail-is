@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
 
-### 🚀 Full Stack Developer | 1.6+ Years of Experience
+### 🚀 Full Stack Developer | 1.6+ Years of Experience | Freelancer
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working at **Bright Media Tech**
+- 💼 I build **static and dynamic websites** and full web applications.
+- 💬 Ask me about **JavaScript, React, Next.js, Node.js, Tailwind CSS, MongoDB**
+- 📫 How to reach me: **ismailthalithanooji@gmail.com**
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ismail-is&label=PROFILE+VIEWS" alt="Profile Views" />
