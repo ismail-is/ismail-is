@@ -1,82 +1,97 @@
-<h1 align="center">Hi 👋, I'm Ismail</h1>
-
-### 🚀 Full Stack Developer | 1.6+ Years of Experience
-
+<!-- Profile Views Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ismail-is&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/Ashutosh00710/main/dino.gif" width="100" alt="Dino Game">
+  <img src="https://komarev.com/ghpvc/?username=ismail-is&label=PROFILE+VIEWS" alt="profile views" />
+</p>
+
+<!-- Dino Gif -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/Ashutosh00710/main/dino.gif" alt="dino" width="300"/>
+</p>
+
+<!-- GitHub Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ismail-is&theme=light&no-bg=true&no-frame=true&margin-w=15" />
+</p>
+
+# 👋 Hi, I'm Ismail
+
+### 🚀 Full Stack Web Developer
+
+I'm a passionate and detail-oriented developer with **1.6+ years of experience** in building static and dynamic websites, full-stack web applications, and CMS-integrated platforms.
+
+- 🔭 I’m currently working at **Bright Media Tech**
+- 🌱 I’m learning advanced **Node.js** and **DevOps**
+- ⚡ I love turning ideas into real-world web products
+- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/ismail-ismail-a39623261/)
+
+---
+
+## 💼 Skills Overview
+
+### Frontend:
+- HTML, CSS, JavaScript, **React.js**, **Next.js**, **TypeScript**
+
+### CSS Frameworks & UI Libraries:
+- Tailwind CSS, Bootstrap, Sass, MUI
+
+### Backend:
+- **Node.js**, **Express.js**
+
+### Database:
+- **MongoDB**
+
+### APIs:
+- REST API
+
+### CMS Platforms:
+- **WordPress**, **Shopify**
+
+### Hosting & Deployment:
+- **VPS (Ubuntu)**, GitHub Pages, cPanel, Netlify, Vercel, Render
+
+### Tools:
+- PuTTY, CloudPanel, Git Bash, CMD, Postman, Thunder Client
+
+### Version Control:
+- Git, GitHub, Bitbucket
+
+---
+
+## ⚙️ CMS + Coding Integration
+
+| Role        | Tech Stack         |
+|-------------|--------------------|
+| Frontend    | React.js           |
+| Backend CMS | WordPress          |
+
+---
+
+## 🚀 Tech Stack Icons
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,wordpress,shopify,tailwind,bootstrap,git,github,bitbucket,linux,vscode,vercel,netlify,postman" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ismail-is&theme=light&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ismail-is&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-is&layout=compact&theme=default" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 📫 Let's Connect
 
-**Frontend:**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,ts" height="40" />
-
-**CSS Frameworks & UI:**
-<br/>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" height="40" />
-<img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" height="25" />
-
-**Backend:**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
-
-**Database:**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-
-**API Type:**
-<br/>
-REST API
-
-**Tools:**
-<br/>
-<img src="https://skillicons.dev/icons?i=postman" height="40" /> Thunder Client
-
-**Version Control:**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket" height="40" />
-
-**CMS Platforms:**
-<br/>
-<img src="https://skillicons.dev/icons?i=wordpress,shopify" height="40" />
-
-**Frontend + CMS Integration:**
-<br/>
-React.js + WordPress REST API
-
-**Hosting & Deployment:**
-<br/>
-<img src="https://skillicons.dev/icons?i=vercel,netlify" height="40" />
-<img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=flat&logo=github&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" height="25" />
-
-**Deployment Tools:**
-<br/>
-<img src="https://img.shields.io/badge/PuTTY-35495E?style=flat&logo=putty&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/CloudPanel-0F172A?style=flat&logo=cloudflare&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Git%20Bash-F1502F?style=flat&logo=git&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Command%20Line-000000?style=flat&logo=windows-terminal&logoColor=white" height="25" />
+- [LinkedIn](https://www.linkedin.com/in/ismail-ismail-a39623261/)
+- Email: ismailthalithanooji@gmail.com
 
 ---
 
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-ismail-a39623261/)
-[![GitHub](https://img.shields.io/badge/GitHub-121013?style=flat&logo=github&logoColor=white)](https://github.com/ismail-is)
-
----
-
+> “System badluv beku, examge alla lifege tayar aagbeku.”  
+> _– Ismail_
